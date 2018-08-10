@@ -36,6 +36,9 @@ public class HelloWorld {
         list.add("1");*/
 
         System.out.println(1<<30);
+
+        //java里面的堆和栈的意义
+        System.out.println("我已经做好了准别");
     }
 
     // 泛型方法 printArray
